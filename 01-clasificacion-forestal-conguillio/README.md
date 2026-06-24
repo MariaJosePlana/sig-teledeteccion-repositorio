@@ -4,8 +4,18 @@
 
 **Datos:** Imágenes hiperespectrales Hyperion
 
+
+[Ver artículo completo](Clasificacion_tipos_vegetacion_Conguillio.pdf)
+
+
 ## Resumen
 
 Diferenciación de firmas espectrales de especies forestales nativas (Araucaria araucana, Nothofagus spp., entre otras) y cálculo de índices de vegetación (NDVI, EVI, ARVI, SIPI, NDRE) en el Parque Nacional Conguillío, utilizando el Catastro de Recursos Vegetacionales de CONAF como referencia para la clasificación.
 
-[Ver artículo completo](Clasificacion_tipos_vegetacion_Conguillio.pdf)
+
+
+## Resultados
+
+![Mapa del área de estudio](mapa_tipo_forestal.png)
+
+![Indices de Vegetación](indices_vegetacion.png)
