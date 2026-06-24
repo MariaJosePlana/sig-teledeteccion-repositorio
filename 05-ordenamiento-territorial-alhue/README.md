@@ -30,7 +30,7 @@ La combinación de aptitud de suelo y aptitud hídrica, mediante una regla de de
 
 ## Resultado
 
-![Mapa de zonificación PROT - Subcuenca Estero Alhué](mapa_zonificacion.png)
+![Mapa de zonificación PROT - Subcuenca Estero Alhué](mapa_zonificacion.jpg)
 
 El mapa final identifica zonas de desarrollo productivo concentradas en sectores de menor pendiente y mejor aptitud agrícola, zonas de desarrollo productivo con manejo en sectores de mayor fragilidad, y áreas de protección asociadas a cursos de agua, cuerpos de agua y sectores de alto valor ambiental dentro de la subcuenca.
 
