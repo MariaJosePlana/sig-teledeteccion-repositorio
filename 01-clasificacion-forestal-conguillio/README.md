@@ -1,8 +1,10 @@
-Clasificación y Tipos de Vegetación - Parque Nacional Conguillío
+# Clasificación y Tipos de Vegetación - Parque Nacional Conguillío
 
-Herramienta: ENVI
+**Herramienta:** ENVI
 
-Datos: Imágenes hiperespectrales Hyperion
+**Datos:** Imágenes hiperespectrales Hyperion
+
+## Resumen
 
 Diferenciación de firmas espectrales de especies forestales nativas (Araucaria araucana, Nothofagus spp., entre otras) y cálculo de índices de vegetación (NDVI, EVI, ARVI, SIPI, NDRE) en el Parque Nacional Conguillío, utilizando el Catastro de Recursos Vegetacionales de CONAF como referencia para la clasificación.
 
