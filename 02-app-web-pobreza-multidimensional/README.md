@@ -1,4 +1,4 @@
-# Proyecto 2 — Mapa y aplicación web de pobreza multidimensional (CASEN 2017)
+# Mapa y aplicación web de pobreza multidimensional (CASEN 2017)
 
 **Diplomado en Manejo de Información Espacial — Universidad Mayor (2023)**
 Publicación de un mapa web interactivo y una aplicación web (**ArcGIS Online + Web AppBuilder**) para visualizar la pobreza multidimensional por comuna en la Región Metropolitana, a partir de la encuesta CASEN 2017.
@@ -41,7 +41,7 @@ La medida de pobreza multidimensional (versión 2015–2017 del Ministerio de De
 
 ## Flujo de trabajo
 
-1. **Publicación.** Desde ArcMap (`File → Share As → Service`), la capa se publica como *hosted feature layer* en la organización de ArcGIS Online (conexión Universidad Mayor).
+1. **Publicación.** Desde ArcMap, la capa se publica como *hosted feature layer* en la organización de ArcGIS Online (conexión Universidad Mayor).
 2. **Mapa web.** En *Map Viewer Classic* se agrega la capa publicada y se simboliza por `Pmultidime` mediante **7 clases con cortes manuales**, ajustando paleta y contorno.
 3. **Ventanas emergentes.** Se configura el *popup* para mostrar únicamente el nombre de la comuna y el porcentaje de pobreza multidimensional; se guarda el mapa web.
 4. **Aplicación web.** Con *Web AppBuilder* se crea la app sobre el mapa, con tema **Launchpad** y *widgets* de leyenda (visible al inicio), lista de capas, pantalla de presentación (logos y autoría), inicio y localización.
