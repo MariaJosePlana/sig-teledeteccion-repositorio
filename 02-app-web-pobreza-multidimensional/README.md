@@ -39,9 +39,28 @@ La medida de pobreza multidimensional (versión 2015–2017 del Ministerio de De
 | Logos | Universidad Mayor y encuesta CASEN (marca de la aplicación) |
 
 
-## Tecnologías
+## Flujo de trabajo
 
-**ArcGIS Online**, **ArcGIS Web AppBuilder**, **Map Viewer Classic**, **ArcMap** (publicación del servicio).
+1. **Publicación.** Desde ArcMap (`File → Share As → Service`), la capa se publica como *hosted feature layer* en la organización de ArcGIS Online (conexión Universidad Mayor).
+2. **Mapa web.** En *Map Viewer Classic* se agrega la capa publicada y se simboliza por `Pmultidime` mediante **7 clases con cortes manuales**, ajustando paleta y contorno.
+3. **Ventanas emergentes.** Se configura el *popup* para mostrar únicamente el nombre de la comuna y el porcentaje de pobreza multidimensional; se guarda el mapa web.
+4. **Aplicación web.** Con *Web AppBuilder* se crea la app sobre el mapa, con tema **Launchpad** y *widgets* de leyenda (visible al inicio), lista de capas, pantalla de presentación (logos y autoría), inicio y localización.
+5. **Publicación pública.** Se actualiza el nivel de uso compartido de la capa, el mapa y la aplicación a **Todos (público)** y se comparte la URL final.
+
+
+## Resultados
+
+<!-- Reemplaza las rutas por las capturas que subas a la carpeta img/ -->
+
+**Vista general de la aplicación**
+![Aplicación web](img/app_pobreza_multidimensional.png)
+
+**Clasificación temática (7 clases, cortes manuales)**
+![Simbología por comuna](img/clasificacion_comunas.png)
+
+**Ventana emergente por comuna**
+![Popup comuna](img/popup_comuna.png)
+
 
 
 ## Créditos
