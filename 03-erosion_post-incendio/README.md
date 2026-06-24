@@ -29,7 +29,7 @@ Perímetro afectado por el **Gran Incendio del Maule (2017)**, Región del Maule
 | Hidrografía | Distancia a la red de drenaje |
 | Carreteras | Distancia a la red vial |
 | Zonas urbanas | Identificación de zonas vulnerables |
-| Catastro vegetacional (`CBN_monitoreo_2009.shp`) | Reclasificación por uso de suelo / vegetación |
+| Catastro vegetacional | Reclasificación por uso de suelo / vegetación |
 | Tipo de suelo | Reclasificación por capacidad de uso |
 
 El recorte se realiza al área del incendio y las capas vectoriales se rasterizan usando el **tamaño de píxel del DEM**.
