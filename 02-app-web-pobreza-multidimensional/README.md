@@ -53,13 +53,13 @@ La medida de pobreza multidimensional (versión 2015–2017 del Ministerio de De
 <!-- Reemplaza las rutas por las capturas que subas a la carpeta img/ -->
 
 **Vista general de la aplicación**
-![Aplicación web](img/app_pobreza_multidimensional.png)
+![Aplicación web](app_pobreza_multidimensional.png)
 
 **Clasificación temática (7 clases, cortes manuales)**
-![Simbología por comuna](img/clasificacion_comunas.png)
+![Simbología por comuna](clasificacion_comunas.png)
 
 **Ventana emergente por comuna**
-![Popup comuna](img/popup_comuna.png)
+![Popup comuna](popup_comuna.png)
 
 
 
