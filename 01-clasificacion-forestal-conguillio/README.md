@@ -16,6 +16,14 @@ Diferenciación de firmas espectrales de especies forestales nativas (Araucaria 
 
 ## Resultados
 
+
+**Mapa del área de estudio: Parque Nacional Conguillío**
+
+
 ![Mapa del área de estudio](mapa_tipo_forestal.png)
+
+
+**Índices de Vegetación (NDVI, EVI, ARVI, SIPI, NDRE)**
+
 
 ![Indices de Vegetación](indices_vegetacion.png)
